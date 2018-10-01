@@ -59,3 +59,6 @@ Tests are also part of my namespace (they are part of my codebase!)
 I am using phpunit to test. 
 
 It is recomended as a good practice to use require-dev to specify the dependecy with phpUnit instead of require.
+
+## step-2 check that tests run and pass
+Just to double-check that test properly run, first test does test 1 equals 1 
